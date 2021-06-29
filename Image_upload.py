@@ -37,23 +37,16 @@ def submit():
     else:
         tk.Label(master,text="You are doing the right thing but using the wrong thing",fg='#ff0000',bg = '#0ff0fc').grid(row=7,column=0)
         
-  
 master = tk.Tk()
 master.configure(bg='#0ff0fc')
 master.title("WELCOME TO CODECHEF -> ROUND-3")
 tk.Label(master, text="Who sent you to this portal ?!  Where can I find your crest?",bg='#fc0dcc').grid(row=0,column=0)
 
 e1 = tk.Entry(master,width = 100)
-
-
 e1.grid(row=0, column=1)
-
 
 tk.Button(master, 
           text='SUBMIT', 
           command=submit,bg='#2ac778').grid(row=3, column=0, sticky=tk.W,pady=4)
-
-
-
 
 tk.mainloop()
