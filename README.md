@@ -4,7 +4,7 @@ In this repository you have four files - a README, CodeChef.png, objective.txt, 
 
 
 ### GitHub information:
-To reach any github repository, you need to follow these simple steps:
+To reach any github repository, you need to follow these simple steps (YOU MUST KNOW THIS TO FIND THE NEXT CLUE):
 Enter the github repository's URL in the address bar and then search, you will be on the github repository.
 1. Any github URL is of the form: https://github.com/user-name/repository-name (Ex: https://github.com/dhilipkarthik01/ROUND-3)
 2. So you can reach any github repository by knowing the username of the repository's owner and the name of the repository.
